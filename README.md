@@ -2,7 +2,7 @@
 
 ### Your Gaming Tips & Strategy Assistant
 
-**ONE TEAM. MANY IDEAS. INFINITE POSSIBILITIES.**
+**★彡 𝗢𝗡𝗘 𝗧𝗘𝗔𝗠. 𝗠𝗔𝗡𝗬 𝗜𝗗𝗘𝗔𝗦. 𝗜𝗡𝗙𝗜𝗡𝗜𝗧𝗘 𝗣𝗢𝗦𝗦𝗜𝗕𝗜𝗟𝗜𝗧𝗜𝗘𝗦. 彡★.**
 
 GameBot is a gaming tips and strategy assistant built to help players discover games, learn strategies, improve their skills, and find useful gaming tips.
 

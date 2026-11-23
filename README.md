@@ -95,3 +95,11 @@ Made with teamwork by **Projectverse**.
 ⭐ If you like GameBot, check out the project!
 
 [GitHub Repository](https://github.com/jyoti445vinay-cmd/gamebot)
+
+# recommended version 
+
+you should use v1 for the info 
+
+## ✨old features 
+-no randomizer
+- did not contain roblox and more
